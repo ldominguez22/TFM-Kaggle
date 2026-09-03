@@ -72,13 +72,7 @@ Los notebooks deben ejecutarse **en orden**, desde la carpeta `notebooks/` (usan
 
 ### Antes de ejecutar 01 y 02
 
-Estos dos notebooks tienen la ruta a los datos en bruto escrita como ruta absoluta de mi propio equipo:
-
-```python
-DATA_PATH = Path("/home/ldominguez/master_ml/TFM_Store_Sales/data/raw")
-```
-
-Si clonas este repositorio, cámbiala por una ruta relativa antes de ejecutar, por ejemplo:
+Estos dos notebooks tienen la ruta a los datos en bruto escrita como ruta absoluta de mi propio equipo. Si clonas este repositorio, cámbiala por una ruta relativa antes de ejecutar, por ejemplo:
 
 ```python
 DATA_PATH = Path("../data/raw")
