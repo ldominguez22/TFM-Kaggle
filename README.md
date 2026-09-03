@@ -12,7 +12,6 @@ Trabajo Fin de Máster (Big Data, Data Science & Inteligencia Artificial, UCM) s
 │   └── results/         # Métricas y predicciones de cada modelo, generadas por los notebooks
 ├── figures/             # Figuras generadas por los notebooks (una carpeta por fase)
 ├── models/              # Modelos entrenados guardados (.joblib)
-└── memoria/             # Memoria del TFM (LaTeX)
 ```
 
 ## Datos
