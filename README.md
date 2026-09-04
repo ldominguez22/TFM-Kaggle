@@ -11,7 +11,7 @@ Trabajo Fin de Máster (Big Data, Data Science & Inteligencia Artificial, UCM) s
 │   ├── processed/       # Dataset final de modelado (df_model) y fechas de corte de la validación
 │   └── results/         # Métricas y predicciones de cada modelo, generadas por los notebooks
 ├── figures/             # Figuras generadas por los notebooks (una carpeta por fase)
-├── models/              # Modelos entrenados guardados (.joblib)
+├── models/              # Modelos entrenados guardados (.joblib; CatBoost usa su formato nativo .cbm)
 ```
 
 ## Datos
